@@ -153,4 +153,4 @@ Given the fallback planner, these produce consistent execution plans and outputs
 
 The system is designed with an LLM-first architecture while prioritizing operational reliability.
 
-A deterministic fallback planner ensures that the assistant produces valid plans and completes execution even when AI services are unavailable — a common requirement in production AI operations systems.
+A deterministic fallback planner ensures that the assistant produces valid plans and completes execution even when AI services are unavailable, a common requirement in production AI operations systems.
