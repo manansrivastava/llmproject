@@ -68,7 +68,8 @@ The project integrates **real, live APIs**:
 ### 1. Clone the repository
 ```bash
 git clone <your-repo-url>
-cd llm
+cd <repo-name>
+
 
 ```
 ### Create and activate a virtual environment
