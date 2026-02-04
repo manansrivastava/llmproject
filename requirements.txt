@@ -1,0 +1,4 @@
+openapi
+requests
+python-dotenv
+pydantic
