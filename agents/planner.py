@@ -31,7 +31,7 @@ User task:
     except Exception as e:
         print("⚠️ LLM unavailable, using fallback planner:", e)
 
-    # ✅ Fallback plan (DETERMINISTIC)
+    
     plan = {"steps": []}
 
     text = user_task.lower()
